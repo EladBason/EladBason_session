@@ -5,7 +5,8 @@
 //1b - not as excpected because i thought that it will print the value of the points
 //1c,c - didnt stop becaue the function didnt called
 
-//2
+//2a - no, p2 didn't copied well
+
 int main()
 {
 	Point p1(1, 2);
